@@ -5,7 +5,7 @@
         </samp>
 </h1>
 <p align="center">
-        <samp> Hello, I am a Full Stack Python web developer in Meerut, India. I specialize in Python programming and have a strong grasp of Django web development.
+        <samp> Hello, I am a Full Stack Python web developer in Meerut, India. <br> I specialize in Python programming and have a strong grasp of Django web development.
         </samp>
 </p>
 
