@@ -4,7 +4,7 @@
                 <b><a target="_blank" href="https://github.com/ShubhamMca88">Shubham</a></b>
         </samp>
 </h1>
-<p>
+<p align="center">
         <samp> Hello, I am a Full Stack Python web developer in Meerut, India. I specialize in Python programming and have a strong grasp of Django web development.
         </samp>
 </p>
