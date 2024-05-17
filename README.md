@@ -5,32 +5,31 @@
         </samp>
 </h1>
 <p align="center">
-        <samp> Hello, I am a Full Stack Python web developer in Meerut, India. <br> I specialize in Python programming and have a strong grasp of Django web development.
+        <samp> Hy I'm shubham, as developer with a passion for crafting clean and efficient code. Proficient in frontend and backend technologies, with a focus on creating intuitive user experiences and scalable solutions. Dedicated to continuous learning and staying updated with the latest industry trends. Ready to contribute to dynamic teams and drive impactful projects.
         </samp>
 </p>
 
 <p align="center">
- <a href="https://www.linkedin.com/in/shubham-kumar-266652237/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> &nbsp;
+ <a href="https://www.linkedin.com/in/shubham-kumar-266652237/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>&nbsp;
     </a>
  <a href="https://github.com/ShubhamMca88" target="_blank">
-  <img src="https://img.shields.io/badge/Github-1DA1F2?style=for-the-badge&logo=github&logoColor=white"/> &nbsp;
+  <img src="https://img.shields.io/badge/Github-1DA1F2?style=for-the-badge&logo=github&logoColor=white"/>&nbsp;
     </a>
  <a href="https://www.instagram.com/su.g.am?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white"/>
-    </a> 
+    </a>
+ <a href="mailto:shubhamkumar.mca@outlook.com" target="_blank">
+  <img src="https://img.shields.io/badge/gmail-61D?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
 
- # Project View Point 
- 
-<p>
+## Django Practice 
 
- ✌️ &emsp; This project only django practice start to end <br>
- 📧&emsp; Reach me anytime: shubhamkumar.mca88@gmail.com<br>
-</p>
+This repository contains the code for my personal django practice .
 
-## Use To Code
+## Use To Technology
 
-![Nodejs](https://img.shields.io/badge/Python-3C873A?style=for-the-badge&labelColor&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3C873A?style=for-the-badge&labelColor&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-61D?style=for-the-badge&labelColor&logo=django&logoColor=)
 ![Javascript](https://img.shields.io/badge/Javascript-B51B75?style=for-the-badge&labelColor&logo=javascript&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -41,19 +40,8 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/Github-9195F6?style=for-the-badge&logo=github&logoColor=white)
 
-## Some Code Repo...
-
-[![Shubham](https://github-readme-stats.vercel.app/api/pin/?username=shubhamMca88&repo=Shubham&border_color=7F3&bg_color=0D1117&title_color=C9D1D9&text_color=8B9E&icon_color=7F3FB)](https://github.com/ShubhamMca88/Shubham.git)
-
-[![Shubham 1](https://github-readme-stats.vercel.app/api/pin/?username=shubhamMca88&repo=Portfolio-Frontend-template-1&border_color=7F3&bg_color=0D1117&title_color=C9D1D9&text_color=8B9E&icon_color=7F3FB)](https://github.com/ShubhamMca88/Portfolio-Frontend-template-1.git)
-
-[![Shubham 2](https://github-readme-stats.vercel.app/api/pin/?username=shubhamMca88&repo=Django-Invoice-downloder&border_color=7F3&bg_color=0D1117&title_color=C9D1D9&text_color=8B9E&icon_color=7F3FB)](https://github.com/ShubhamMca88/Django-Invoice-downloder.git)
-
-<p align="left">
-  <a href="https://github.com/chiragjain307?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
-
 <h3 align="left">Support </h3>
-<p><a href="https://buymeacoffee.com/shubhammca88"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="shubham" />
-</a>
-</p>
+<p><a href="https://buymeacoffee.com/shubhammca88"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="shubham" /></a></p><br><br>
+
+<br/>
+
